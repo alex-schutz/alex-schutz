@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on multi-agent reinforcement learning
+- 📫 How to reach me: find my email [here](https://ori.ox.ac.uk/people/alex-schutz/)
+
 <!--
 **alex-schutz/alex-schutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
